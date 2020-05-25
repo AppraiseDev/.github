@@ -4,4 +4,4 @@ Changes proposed in the pull request:
 
 - `TBA`
 
-@AppraiseDev
+@AppraiseDev/core-team
